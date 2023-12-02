@@ -10,6 +10,11 @@ Create a solution leveraging Language Models that automates the identification a
 ## Impact
 Enhanced efficiency in public service delivery, reduced burnout among case workers, and improved outcomes for those seeking assistance.
 
+## Example Projects
+* https://devpost.com/software/asksf
+* https://devpost.com/software/homease-683iva
+
+
 ## Resources
 
 Organizations that offer these services:
